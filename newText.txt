@@ -4,4 +4,12 @@ git pull https://github.com/gabrielhcamacho/Arquitetura-de-Software
 
 touch newText.txt
 
-code .
+git add newText.txt
+
+git commit -m "novo arquivo adicionado"
+
+git branch -M main
+
+git remote add origin https://github.com/gabrielhcamacho/Arquitetura-de-Software.git
+
+ git push -u origin main
