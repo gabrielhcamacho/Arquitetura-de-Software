@@ -1,0 +1,7 @@
+git init
+
+git pull https://github.com/gabrielhcamacho/Arquitetura-de-Software
+
+touch newText.txt
+
+code .
